@@ -1,4 +1,5 @@
 ### Hi there 👋
+- 🔭 I’m currently working on Mobile Games, mostly Hyper Casual games
 
 <!--
 **Bayturan/Bayturan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
